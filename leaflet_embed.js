@@ -233,16 +233,16 @@ function setupDropDown(venues) {
 
 function createContainerList(venue, marker, num) {
     var n = venue.events.length;
-    var container = $('<div />', {text:venue.name, class:'popContainer'});
-    var venue_events = $('<ul />', {class:'event_list'}); 
+    var container = $('<h4 />', {text:venue.name, class:'popContainer'});
+    var venue_events = $('<ul />', {class:'event_list list-group'}); 
     var evts = '';
     for (var i = 0; i < n; i++) {
         evt_id = "venue_" + num + "_event_" + i;
-        evts += "<li><a href='#' class='smallPolygonLink' id=" + evt_id  + ">" + venue.events[i].day + " " + venue.events[i].time + "</a></li>"; 
+        evts += "<li class='list-group-item'><a href='#' class='smallPolygonLink' id=" + evt_id  + ">" + venue.events[i].day + " " + venue.events[i].time + "</a></li>"; 
         container.on('click', '#'+evt_id, function() {
             var li = $(this).parent();
             var index = li.parent().children().index(li); // would be better to use id...
-            marker._popup.setContent('<div class="popContainer">' + venue.events[index].act + '<p class="price">' + venue.events[index].price + '</div>'); 
+            marker._popup.setContent('<h4 class="popContainer"><p>' + venue.name + '</p>' + venue.events[index].act + '<p class="price">' + venue.events[index].price + '</div>'); 
         });
     }    
     venue_events.html(evts)
