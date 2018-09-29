@@ -51,10 +51,16 @@ main {
     padding-left: 0px;
 }
 
+
+.event_time{
+	font-weight: bold;
+}
+
 .price {
 	font-weight: bold;
 	text-align: right;
 }
+
 
 .my_select {
 	width: 80%;

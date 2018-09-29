@@ -242,7 +242,7 @@ function createContainerList(venue, marker, num) {
         container.on('click', '#'+evt_id, function() {
             var li = $(this).parent();
             var index = li.parent().children().index(li); // would be better to use id...
-            marker._popup.setContent('<h4 class="popContainer"><p>' + venue.name + '</p>' + venue.events[index].act + '<p class="price">' + venue.events[index].price + '</div>'); 
+            marker._popup.setContent('<div class="popContainer"><h4>' + venue.name + '</h4>' + '<p class="event_time">' + venue.events[index].day + venue.events[index].time + '</p>' + '<p>' + venue.events[index].act + '</p>' + '<p class="price">' + venue.events[index].price + '</div>'); 
         });
     }    
     venue_events.html(evts)
