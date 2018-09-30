@@ -5,9 +5,14 @@ $(function() {
         // https://stackoverflow.com/questions/25720986/bootstrap-select-how-to-fire-event-on-change#28073479
         var selected = $(this).find("option:selected")[0].firstChild.data;
         
+        if (!map.hasLayer(markerGroup)){
+            map.closePopup()
+        }
+        
         for (var i = 0; i < markers.length; i++) {
             if (markers[i].venue === selected) {
-                markers[i].openPopup();
+//                 markers[i].openPopup();
+                markers[i].onClick();
                 break;
             }
         }
