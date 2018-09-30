@@ -238,11 +238,13 @@ function createContainerList(venue, marker, num) {
     var evts = '';
     for (var i = 0; i < n; i++) {
         evt_id = "venue_" + num + "_event_" + i;
-        evts += "<li class='list-group-item'><a href='#' class='smallPolygonLink' id=" + evt_id  + ">" + venue.events[i].day + " " + venue.events[i].time + "</a></li>"; 
+        evts += "<a href='#' class='list-group-item list-group-item-action smallPolygonLink' id=" + evt_id  + ">" + venue.events[i].day + " " + venue.events[i].time + "</a>"; // prolly don't need smallPolygonLink
+        
         container.on('click', '#'+evt_id, function() {
-            var li = $(this).parent();
+            var li = $(this); //.parent();
             var index = li.parent().children().index(li); // would be better to use id...
-            marker._popup.setContent('<div class="popContainer"><h4>' + venue.name + '</h4>' + '<p class="event_time">' + venue.events[index].day + venue.events[index].time + '</p>' + '<p>' + venue.events[index].act + '</p>' + '<p class="price">' + venue.events[index].price + '</div>'); 
+            
+            marker._popup.setContent('<div class="popContainer"><h4>' + venue.name + '</h4>' + '<p class="event_time">' + venue.events[index].day + ' ' + venue.events[index].time + '</p>' + '<p>' + venue.events[index].act + '</p>' + '<p class="price">' + venue.events[index].price + '</div>'); 
         });
     }    
     venue_events.html(evts)
