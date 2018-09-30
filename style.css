@@ -46,7 +46,7 @@ main {
 }*/
 
 .event_list {
-    list-style-type: none;
+/*     list-style-type: none; */
 /*     list-style-position: inside; */
     padding-left: 0px;
 }
@@ -63,7 +63,7 @@ main {
 
 
 .my_select {
-	width: 80%;
+/* 	width: 80%; */
 /*    height: 80vh;*/
     margin: auto;
     margin-top: 10vh;
@@ -73,12 +73,12 @@ a.cen {
     text-align: center;
 }
 
-.popContainer {
+/*.popContainer {
     font-size: 1.6rem;
 /*     width: auto; */
 /*     height: auto; */
 }
-    
+    */
 
 /*.select > select > option {*/
 /*
