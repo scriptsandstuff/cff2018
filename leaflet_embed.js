@@ -12,224 +12,120 @@ lat: "51.896514",
 lng: "-8.4765845",
 events :
         [{"day":"Wed 3rd","time":"6pm","act":"‘Barry Britton Posters’ Book launch & poster exhibition","price":"FREE"},{"day":"Wed 3rd","time":"9.30pm","act":"Sara Corkery, Brendan Butler & Siona Knepper","price":"€10.00"},{"day":"Thur 4th","time":"9.30pm","act":"The Whileaways + Eileen Healy & Dan Linehan","price":"€15.00"},{"day":"Fri 5th","time":"9.30pm","act":"Desi Wilkinson & Patrick Molard (Brittany), Rowan Piggott + Pete Coe (UK)","price":"€15.00"},{"day":"Sat 6th","time":"1pm","act":"Stíleanna (Styles) Flute Concert: Conal Ó Gráda, Aoife Granville, Joanne Quirke, Brendan Ring","price":"€10.00"},{"day":"Sat 6th","time":"3.30pm","act":"Stíleanna (Styles) Concertina Concert: Niall Vallely, Eimhear Flannery, Meadhbh O’ Leary Fitzpatrick, Ann Kirrane Droney, Paul Clesham & Cliona Halley","price":"€10.00"},{"day":"Sat 6th","time":"7pm","act":"‘Gals at Play’: Mary Green, Liz Kane, Lynda Cullen, Ellie Shine & Emma Langford","price":"€15.00"},{"day":"Sat 6th","time":"10.00pm","act":"Manus McGuire & Emily Flack, Matt Cranitch & Jackie Daly, Ann Kirrane Droney & Catherine McHugh","price":"€15.00"},{"day":"Sun 7th","time":"12.30pm","act":"Lee Valley String Band with Mick Daly, Brendan Butler, Mick ‘Tana’ O Brien, Hal O’Neill & Siona Knepper","price":"€10.00"},{"day":"Sun 7th","time":"1.30pm","act":"Song Session","price":"FREE"},{"day":"Sun 7th","time":"3.30pm","act":"Box Concert: Dave Hennessy, Jackie Daly, Jack Talty and Derek Hickey","price":"€10.00"},{"day":"Sun 7th","time":"9.00pm","act":"Cork Singers Club with Special Guest Seán Ó Sé, remembering Lena Bean Uí Shea and John O Shea (the singing fireman)","price":"FREE"}]
-},
-{name: "CIT Cork School of Music",
-id: "1",
-lat: "51.8961241",
-lng: "-8.4683832",
-events :
+    },
+    {name: "CIT Cork School of Music",
+        id: "1",
+        lat: "51.8961241",
+        lng: "-8.4683832",
+        events :
         [{"day":"Fri 5th","time":"8pm","act":"Abegondo Pipe and Dance Band with Douglas Comhaltas","price":"€10.00"},{"day":"Sat 6th","time":"11am","act":"Master classes: Kevin Burke (fiddle) and Sliabh Luachra Tunes Workshop with Matt Cranitch & Jackie Daly","price":"€15 (Students €10)"},{"day":"Sat 6th","time":"8pm","act":"Dave Flynn’s Irish Memory Orchestra, Special Guest Mairtín O Connor","price":"€20 (Students €15)"}]
-},
-{name: "Cork City Children’s Library",
-id: "2",
-lat: "51.8969057",
-lng: "-8.4752595",
-events :
+    },
+    {name: "Cork City Children’s Library",
+        id: "2",
+        lat: "51.8969057",
+        lng: "-8.4752595",
+        events :
         [{"day":"Sat 6th","time":"11.30am-12.30pm","act":"Tall Tales for Children with Pete Coe","price":"FREE"}]
-},
-{name: "Cork Opera House",
-id: "3",
-lat: "51.9002811",
-lng: "-8.47307413911774",
-events :
+    },
+    {name: "Cork Opera House",
+        id: "3",
+        lat: "51.9002811",
+        lng: "-8.47307413911774",
+        events :
         [{"day":"Sun 7th","time":"8pm","act":"Kate Rusby & Band + Séamus Begley & Jim Murray","price":"€32.00"}]
-},
-{name: "Counihan's Bar",
-id: "4",
-lat: "51.8977881",
-lng: "-8.469947",
-events :
+    },
+    {name: "Counihan's Bar",
+        id: "4",
+        lat: "51.8977881",
+        lng: "-8.469947",
+        events :
         [{"day":"Sat 6th","time":"2pm","act":"Bodhran\/Percussion Workshop with Johnny Bongos","price":"FREE"}]
-},
-{name: "Crane Lane",
-id: "5",
-lat: "51.8977489",
-lng: "-8.4696355",
-events :
+    },
+    {name: "Crane Lane",
+        id: "5",
+        lat: "51.8977489",
+        lng: "-8.4696355",
+        events :
         [{"day":"Thur 4th","time":"7pm","act":"Noel Brazil Song Competition €450 in prizes, to Enter email admin@mutantspace.com","price":"FREE"},{"day":"Thur 4th","time":"12pm","act":"Late Concert","price":"FREE"},{"day":"Sun 7th","time":"11pm","act":"Late gig","price":"FREE"}]
-},
-{name: "Deerpark CBS",
-id: "6",
-lat: "51.8899344",
-lng: "-8.4734561",
-events :
+    },
+    {name: "Deerpark CBS",
+        id: "6",
+        lat: "51.8899344",
+        lng: "-8.4734561",
+        events :
         [{"day":"Sun 7th","time":"2pm","act":"Céilí Mór – ARUNDO, CLUB CEOIL, Abegondo Pipe and Dance Band Family Event","price":"FREE"}]
-},
-{name: "Emmett Place",
-id: "7",
-lat: "51.8999859",
-lng: "-8.4727718",
-events :
+    },
+    {name: "Emmett Place",
+        id: "7",
+        lat: "51.8999859",
+        lng: "-8.4727718",
+        events :
         [{"day":"Sat 6th","time":"11-5pm","act":"Food & Folk Open-air Food market with Abegondo Pipe and Dance Band, Douglas Comhaltas Adult Group, Rowan Piggott","price":"FREE"}]
-},
-{name: "Rory Gallagher Music Library",
-id: "8",
-lat: "51.89671",
-lng: "-8.475234",
-events :
+    },
+    {name: "Rory Gallagher Music Library",
+        id: "8",
+        lat: "51.89671",
+        lng: "-8.475234",
+        events :
         [{"day":"Sat 6th","time":"3.00pm","act":"Carmen Cullen will present ‘Hello Delia Murphy’, a tribute in story and song to singer Delia Murphy","price":"FREE"}]
-},
-{name: "St Finbarr’s GAA",
-id: "9",
-lat: "51.8774565",
-lng: "-8.4972063",
-events :
+    },
+    {name: "St Finbarr’s GAA",
+        id: "9",
+        lat: "51.8774565",
+        lng: "-8.4972063",
+        events :
         [{"day":"Sat 6th","time":"9.30pm","act":"Céilí Mór: Striolán Céilí Band","price":"€10.00"}]
-},
-{name: "St Finnbarre's Cathedral",
-id: "10",
-lat: "51.8943591",
-lng: "-8.4811048",
-events :
+    },
+    {name: "St Finnbarre's Cathedral",
+        id: "10",
+        lat: "51.8943591",
+        lng: "-8.4811048",
+        events :
         [{"day":"Wed 3rd","time":"8pm","act":"”Corcach: A Journey” The Casey Sisters; Máire Ní Chathasaigh, Nollaig Casey and Mairéad Ní Chathasaigh- Premiere of a new commission from the Casey Sisters for the 40th year of the Cork Folk Festival, Featuring Nollaig Casey (fiddle and vocals), Máire Ní Chathasaigh (harp), Mairéad Ní Chathasaigh (fiddle and vocals) and some of Cork’s finest musicians: Eoin Ó Riabhaigh (uilleann pipes); Johnny McCarthy (flutes); Eithne Willis (violin and viola); and Joan Scannell (cello)","price":"€15.00"}]
-},
-{name: "St Peter's Church",
-id: "11",
-lat: "51.8996408",
-lng: "-8.4786399",
-events :
+    },
+    {name: "St Peter's Church",
+        id: "11",
+        lat: "51.8996408",
+        lng: "-8.4786399",
+        events :
         [{"day":"Thur 4th","time":"1pm","act":"Concert","price":"FREE"},{"day":"Fri 5th","time":"1pm","act":"Concert Rowan Piggott, Garry Cronin & Desi McCabe & more","price":"FREE"},{"day":"Sat 6th","time":"12pm","act":"Karen Casey speaks about FairPlé and its aims to achieve gender balance in Irish traditional and folk music.","price":"FREE"}]
-},
-{name: "The Corner House",
-id: "12",
-lat: "51.901651",
-lng: "-8.470919",
-events :
+    },
+    {name: "The Corner House",
+        id: "12",
+        lat: "51.901651",
+        lng: "-8.470919",
+        events :
         [{"day":"Wed 3rd","time":"9.30pm","act":"The Four Star Trio","price":"FREE"},{"day":"Thur 4th","time":"9.30pm","act":"Lee Delta Blues Club","price":"FREE"},{"day":"Fri 5th","time":"5.50pm","act":"1st Friday Session","price":"FREE"},{"day":"Sat 6th","time":"6pm","act":"Songwriters @6: Leif, Pat Horgan, Martina Stafford, Leah, Sara & Brendan","price":"FREE"},{"day":"Sun 7th","time":"4pm","act":"Album Launch Paddy Tutty and Caoimhín O Fearghail","price":"FREE"},{"day":"Sun 7th","time":"6pm","act":"The Prairie Jaywalkers","price":"FREE"},{"day":"Sun 7th","time":"8pm","act":"The Lee Valley & Rough Deal String Bands","price":"FREE"}]
-},
-{name: "The Long Valley",
-id: "13",
-lat: "51.8981887",
-lng: "-8.4705669",
-events :
+    },
+    {name: "The Long Valley",
+        id: "13",
+        lat: "51.8981887",
+        lng: "-8.4705669",
+        events :
         [{"day":"Sat 6th","time":"2pm","act":"Song Session (approx 60 mins) BALLADS,BROADSIDES & BAWLING HAWKERS session\/informal concert with Pete Coe & Jimmy Crowley and songs from audience","price":"€10.00"}]
-},
-{name: "The Oliver Plunkett",
-id: "14",
-lat: "51.8982162",
-lng: "-8.4695729",
-events :
+    },
+    {name: "The Oliver Plunkett",
+        id: "14",
+        lat: "51.8982162",
+        lng: "-8.4695729",
+        events :
         [{"day":"Fri 5th","time":"5.30pm","act":"Greenshine + Céilí Allstars","price":"€15.00"},{"day":"Fri 5th","time":"11pm","act":"Late gig","price":"FREE"},{"day":"Sat 6th","time":"4.30pm","act":"Ye Vagabonds & Blind Poets","price":"€15.00"},{"day":"Sat 6th","time":"10pm,","act":"Two Time Polka","price":"FREE"},{"day":"Sun 7th","time":"12.30pm","act":"Stíleanna (Styles) Fiddle Concert: Matt Cranitch, Caoimhe Flannery, Niamh Varian-Barry, Leah Murphy, Manus McGuire, Seamus Sands, Liz Kane, Garry Cronin","price":"€10.00"},{"day":"Sun 7th","time":"4pm","act":"John Spillane + Hanora George+ Ger Wolfe","price":"€15.00"}]
-},
-{name: "The Roundy",
-id: "15",
-lat: "51.8987518",
-lng: "-8.4761584",
-events :
+    },
+    {name: "The Roundy",
+        id: "15",
+        lat: "51.8987518",
+        lng: "-8.4761584",
+        events :
         [{"day":"Fri 5th","time":"9.30pm","act":"John Blek with Laura ní Carthaigh","price":"€15.00"},{"day":"Sun 7th","time":"2.30pm","act":"Cork Pipers Club Concert with Brendan Ring,Rosaleen O’Leary and Mary Mitchell-Ingoldsby , Shane Keating, Robert Fell,  Pipers from Abegondo","price":"€10.00"}]
-},
-{name: "Triskel Christchurch",
-id: "16",
-lat: "51.8974504",
-lng: "-8.4766479",
-events :
+    },
+    {name: "Triskel Christchurch",
+        id: "16",
+        lat: "51.8974504",
+        lng: "-8.4766479",
+        events :
         [{"day":"Thur 4th","time":"8pm","act":"Portuguese Fadó meets Irish Sean Nós; Claudia Aurora, Máire Ni Chéileachair & Nell Ní Chróinín","price":"€25.00"},{"day":"Fri 5th","time":"8pm","act":"KGB: Paddy Keenan, Frankie Gavin & Dermot Byrne plus Kevin Burke","price":"€25.00"}]
-}	
+    }	
 ];
-// 	{name: "St Finnbarre's Cathedral",
-//         lat: "51.8943591",
-//         lng: "-8.4811048",
-//         events :
-//         [{"day":"Wed 3rd","time":"8pm","act":"”Corcach: A Journey” The Casey Sisters; Máire Ní Chathasaigh, Nollaig Casey and Mairéad Ní Chathasaigh- Premiere of a new commission from the Casey Sisters for the 40th year of the Cork Folk Festival, Featuring Nollaig Casey (fiddle and vocals), Máire Ní Chathasaigh (harp), Mairéad Ní Chathasaigh (fiddle and vocals) and some of Cork’s finest musicians: Eoin Ó Riabhaigh (uilleann pipes); Johnny McCarthy (flutes); Eithne Willis (violin and viola); and Joan Scannell (cello)","price":"€15.00"}]
-//     },
-//     {name: "Cork Opera House",
-//         lat: "51.9002811",
-//         lng: "-8.47307413911774",
-//         events :
-//         [{"day":"Sun 7th","time":"8pm","act":"Kate Rusby & Band + Séamus Begley & Jim Murray","price":"€32.00"}]
-//     },
-//     {name: "Deerpark CBS",
-//         lat: "51.8899344",
-//         lng: "-8.4734561",
-//         events :
-//         [{"day":"Sun 7th","time":"2pm","act":"Céilí Mór – ARUNDO, CLUB CEOIL, Abegondo Pipe and Dance Band Family Event","price":"FREE"}]
-//     },
-//     {name: "The Roundy",
-//         lat: "51.8987518",
-//         lng: "-8.4761584",
-//         events :
-//         [{"day":"Fri 5th","time":"9.30pm","act":"John Blek with Laura ní Carthaigh","price":"€15.00"},{"day":"Sun 7th","time":"2.30pm","act":"Cork Pipers Club Concert with Brendan Ring,Rosaleen O’Leary and Mary Mitchell-Ingoldsby , Shane Keating, Robert Fell,  Pipers from Abegondo","price":"€10.00"}]
-//     },
-//     {name: "Rory Gallagher Music Library",
-//         lat: "51.89671",
-//         lng: "-8.475234",
-//         events :
-//         [{"day":"Sat 6th","time":"3.00pm","act":"Carmen Cullen will present ‘Hello Delia Murphy’, a tribute in story and song to singer Delia Murphy","price":"FREE"}]
-//     },
-//     {name: "St Peter's Church",
-//         lat: "51.8996408",
-//         lng: "-8.4786399",
-//         events :
-//         [{"day":"Thur 4th","time":"1pm","act":"Concert","price":"FREE"},{"day":"Fri 5th","time":"1pm","act":"Concert Rowan Piggott, Garry Cronin & Desi McCabe & more","price":"FREE"},{"day":"Sat 6th","time":"12pm","act":"Karen Casey speaks about FairPlé and its aims to achieve gender balance in Irish traditional and folk music.","price":"FREE"}]
-//     },
-//     {name: "An Spailpín Fánach",
-//         lat: "51.896514",
-//         lng: "-8.4765845",
-//         events :
-//         [{"day":"Wed 3rd","time":"6pm","act":"‘Barry Britton Posters’ Book launch & poster exhibition","price":"FREE"},{"day":"Wed 3rd","time":"9.30pm","act":"Sara Corkery, Brendan Butler & Siona Knepper","price":"€10.00"},{"day":"Thur 4th","time":"9.30pm","act":"The Whileaways + Eileen Healy & Dan Linehan","price":"€15.00"},{"day":"Fri 5th","time":"9.30pm","act":"Desi Wilkinson & Patrick Molard (Brittany), Rowan Piggott + Pete Coe (UK)","price":"€15.00"},{"day":"Sat 6th","time":"1pm","act":"Stíleanna (Styles) Flute Concert: Conal Ó Gráda, Aoife Granville, Joanne Quirke, Brendan Ring","price":"€10.00"},{"day":"Sat 6th","time":"3.30pm","act":"Stíleanna (Styles) Concertina Concert: Niall Vallely, Eimhear Flannery, Meadhbh O’ Leary Fitzpatrick, Ann Kirrane Droney, Paul Clesham & Cliona Halley","price":"€10.00"},{"day":"Sat 6th","time":"7pm","act":"‘Gals at Play’: Mary Green, Liz Kane, Lynda Cullen, Ellie Shine & Emma Langford","price":"€15.00"},{"day":"Sat 6th","time":"10.00pm","act":"Manus McGuire & Emily Flack, Matt Cranitch & Jackie Daly, Ann Kirrane Droney & Catherine McHugh","price":"€15.00"},{"day":"Sun 7th","time":"12.30pm","act":"Lee Valley String Band with Mick Daly, Brendan Butler, Mick ‘Tana’ O Brien, Hal O’Neill & Siona Knepper","price":"€10.00"},{"day":"Sun 7th","time":"1.30pm","act":"Song Session","price":"FREE"},{"day":"Sun 7th","time":"3.30pm","act":"Box Concert: Dave Hennessy, Jackie Daly, Jack Talty and Derek Hickey","price":"€10.00"},{"day":"Sun 7th","time":"9.00pm","act":"Cork Singers Club with Special Guest Seán Ó Sé, remembering Lena Bean Uí Shea and John O Shea (the singing fireman)","price":"FREE"}]
-//     },
-//     {name: "Crane Lane",
-//         lat: "51.8977489",
-//         lng: "-8.4696355",
-//         events :
-//         [{"day":"Thur 4th","time":"7pm","act":"Noel Brazil Song Competition €450 in prizes, to Enter email admin@mutantspace.com","price":"FREE"},{"day":"Thur 4th","time":"12pm","act":"Late Concert","price":"FREE"},{"day":"Sun 7th","time":"11pm","act":"Late gig","price":"FREE"}]
-//     },
-//     {name: "Cork City Children’s Library",
-//         lat: "51.8969057",
-//         lng: "-8.4752595",
-//         events :
-//         [{"day":"Sat 6th","time":"11.30am-12.30pm","act":"Tall Tales for Children with Pete Coe","price":"FREE"}]
-//     },
-//     {name: "Triskel Christchurch",
-//         lat: "51.8974504",
-//         lng: "-8.4766479",
-//         events :
-//         [{"day":"Thur 4th","time":"8pm","act":"Portuguese Fadó meets Irish Sean Nós; Claudia Aurora, Máire Ni Chéileachair & Nell Ní Chróinín","price":"€25.00"},{"day":"Fri 5th","time":"8pm","act":"KGB: Paddy Keenan, Frankie Gavin & Dermot Byrne plus Kevin Burke","price":"€25.00"}]
-//     },
-//     {name: "CIT Cork School of Music",
-//         lat: "51.8961241",
-//         lng: "-8.4683832",
-//         events :
-//         [{"day":"Fri 5th","time":"8pm","act":"Abegondo Pipe and Dance Band with Douglas Comhaltas","price":"€10.00"},{"day":"Sat 6th","time":"11am","act":"Master classes: Kevin Burke (fiddle) and Sliabh Luachra Tunes Workshop with Matt Cranitch & Jackie Daly","price":"€15 (Students €10)"},{"day":"Sat 6th","time":"8pm","act":"Dave Flynn’s Irish Memory Orchestra, Special Guest Mairtín O Connor","price":"€20 (Students €15)"}]
-//     },
-//     {name: "Emmett Place",
-//         lat: "51.8999859",
-//         lng: "-8.4727718",
-//         events :
-//         [{"day":"Sat 6th","time":"11-5pm","act":"Food & Folk Open-air Food market with Abegondo Pipe and Dance Band, Douglas Comhaltas Adult Group, Rowan Piggott","price":"FREE"}]
-//     },
-//     {name: "St Finbarr’s GAA",
-//         lat: "51.8774565",
-//         lng: "-8.4972063",
-//         events :
-//         [{"day":"Sat 6th","time":"9.30pm","act":"Céilí Mór: Striolán Céilí Band","price":"€10.00"}]
-//     },
-//     {name: "The Long Valley",
-//         lat: "51.8981887",
-//         lng: "-8.4705669",
-//         events :
-//         [{"day":"Sat 6th","time":"2pm","act":"Song Session (approx 60 mins) BALLADS,BROADSIDES & BAWLING HAWKERS session\/informal concert with Pete Coe & Jimmy Crowley and songs from audience","price":"€10.00"}]
-//     },
-//     {name: "The Corner House",
-//         lat: "51.901651",
-//         lng: "-8.470919",
-//         events :
-//         [{"day":"Wed 3rd","time":"9.30pm","act":"The Four Star Trio","price":"FREE"},{"day":"Thur 4th","time":"9.30pm","act":"Lee Delta Blues Club","price":"FREE"},{"day":"Fri 5th","time":"5.50pm","act":"1st Friday Session","price":"FREE"},{"day":"Sat 6th","time":"6pm","act":"Songwriters @6: Leif, Pat Horgan, Martina Stafford, Leah, Sara & Brendan","price":"FREE"},{"day":"Sun 7th","time":"4pm","act":"Album Launch Paddy Tutty and Caoimhín O Fearghail","price":"FREE"},{"day":"Sun 7th","time":"6pm","act":"The Prairie Jaywalkers","price":"FREE"},{"day":"Sun 7th","time":"8pm","act":"The Lee Valley & Rough Deal String Bands","price":"FREE"}]
-//     },
-//     {name: "Counihan's Bar",
-//         lat: "51.8977881",
-//         lng: "-8.469947",
-//         events :
-//         [{"day":"Sat 6th","time":"2pm","act":"Bodhran\/Percussion Workshop with Johnny Bongos","price":"FREE"}]
-//     },
-//     {name: "The Oliver Plunkett",
-//         lat: "51.8982162",
-//         lng: "-8.4695729",
-//         events :
-//         [{"day":"Fri 5th","time":"5.30pm","act":"Greenshine + Céilí Allstars","price":"€15.00"},{"day":"Fri 5th","time":"11pm","act":"Late gig","price":"FREE"},{"day":"Sat 6th","time":"4.30pm","act":"Ye Vagabonds & Blind Poets","price":"€15.00"},{"day":"Sat 6th","time":"10pm,","act":"Two Time Polka","price":"FREE"},{"day":"Sun 7th","time":"12.30pm","act":"Stíleanna (Styles) Fiddle Concert: Matt Cranitch, Caoimhe Flannery, Niamh Varian-Barry, Leah Murphy, Manus McGuire, Seamus Sands, Liz Kane, Garry Cronin","price":"€10.00"},{"day":"Sun 7th","time":"4pm","act":"John Spillane + Hanora George + Ger Wolfe","price":"€15.00"}]
-//     },
-//     ];
-
 // have all markers showing unless one is selected from the search, selected: not a few letters typed
 /*
  * 
@@ -243,8 +139,7 @@ events :
 /**
  * init()
  */
-function initmap() {	
-	
+function initmap() {
 	/**
 	 * 
 	 *	override the default close method
@@ -338,18 +233,9 @@ function createMarkers() {
 //     var markers = [];
     var containers = [];
     var contents;
-    var venueNames = [];	
-/*
-Then you add the markers to the group:
-L.marker([52.520861, 13.409564]).addTo(markerGroup);
-Then you can easily remove the markers from the map by using the removeLayer method on that group.
-For example, if you want to remove the marker with the ID 219, then you would have to do the following:
-markerGroup.removeLayer(219)*/
-
+    var venueNames = [];
+    
     for (var i = 0; i , i < venues.length; i++) {
-//         console.log('venue: ' + venues[i].name + ' ' + venues[i].lat + ' ' + venues[i].lng);
-		
-//         var marker = L.marker( [venues[i].lat, venues[i].lng] ).addTo( map );
 		let marker = L.marker( [venues[i].lat, venues[i].lng] );
         marker.venue = venues[i].name;
 
@@ -366,19 +252,16 @@ markerGroup.removeLayer(219)*/
 /**
  * 
  */
-// function markerClick(m, c, i) {
 function markerClick(m) {	
 // 	console.log("what can we access??");
 	if( map.hasLayer(markerGroup) ) {
 		map.removeLayer(markerGroup);
 // 		console.log("LAYER REMOVED!!!");	
 	} else {
-		m.remove
+// 		m.remove
 		return;
-	}
-	
+	}	
 	console.log(""+ m.venue);	
-	
 	
 // 	m.on('popupopen', function(evt) {		
 // 		console.log("PopUPPP");
@@ -424,25 +307,6 @@ function setupDropDown(venues) {
 	}
 }
 
-/*
-<div class="accordion" id="accordionExample">
-
-<div class="card z-depth-0 bordered">
-	<div class="card-header" id="headingOne">
-		<h5 class="mb-0">
-		<button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-			THE TITLE
-		</button>
-		</h5>
-	</div>
-	<div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
-		<div class="card-body">
-		THE TEXT
-		</div>
-	</div>
-</div>
-    
-</div>*/
 /**
  * 
  */
@@ -460,9 +324,9 @@ function getPopupContents(venue, marker, num) {
 // 	id="accordion"' +(i)+ ' 
 	for (var i = 0; i < n; i++) {
 // 			t = '<div id="heading"' + i + '" class="accordion"  role="tablist">'+
-		t = '<div class="panel panel-defauly">' +
+		t = '<div class="panel panel-default">' +
 // 				'<div class="panel-heading" role="tab" id="heading' + i + '">' +
-					'<h5 class="panel-title">'+					
+                '<h5 class="panel-title">'+					
 					'<a class="collapse list-group-item" '+
                         'data-toggle="collapse" '+
                         'data-parent="#accordion' + venue.id + '" ' +                        
@@ -473,7 +337,7 @@ function getPopupContents(venue, marker, num) {
                     '>'+
 						venue.events[i].day + " " + venue.events[i].time+          
 					'</a>'+
-					'</h5>' +
+                '</h5>' +
 // 				'</div>'+
 				'<div id="collapse'+i+'" ' +
                     'class="panel-collapse collapse" ' +
@@ -486,22 +350,6 @@ function getPopupContents(venue, marker, num) {
 					'</div>'+
 				'</div>'+
 			'</div>';
-// 		
-// 		
-// 		t = '<div id="heading"' + i + '" class="accordion-heading">'+
-// 				'<a class="accordion-toggle list-group-item" data-toggle="collapse" data-parent="#accordion'
-// 					+venue.name+'" href="#collapse'+i+
-// 					'" data-target="#collapse' + i + '" aria-expanded="false" aria-controls="collapse' + i + '">'+          
-// 						venue.events[i].day + " " + venue.events[i].time+          
-// 				'</a>'+
-// 			'</div>'+
-// 			'<div id="collapse'+i+'" class="accordion-body collapse" aria-labelledby="heading"' + i + 
-// 				'" data-parent="#accordion'+ venue.name + '">'+
-// 				'<div class="accordion-inner">'+
-// 					'<p>' + venue.events[i].act + '</p>' + '<p class="price">' + venue.events[i].price + '</p>'+
-// 				'</div>'+
-// 			'</div>';
-		
 // 		console.log(t);
 		venue_events.append(t);
 	}
